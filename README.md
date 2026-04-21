@@ -8,7 +8,7 @@
 
 - We use **ChatGPT as a simulated client** to provide simulated business requirements and feedback.  
 - Our website aims to solve the problems identified during these simulations.  
-
+- Our Ideas are arranged in Doc - "https://docs.google.com/document/d/1nEipaido_KJIIkKPXrbfm4dVJf4EWFk5gOGY-gFEPgM/edit?usp=sharing"
 ---
 
 ## 🛠️ Technology Stack
